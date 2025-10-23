@@ -4,7 +4,7 @@ PRODID:-//ESCP Sync Script//ics.tools//EN
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Have a Career Break\nProfessor\n:\nCampus\n: London\nRoom\n: G62\nStart time\n: 2025-11-06 12:30:00\nEndtime\n: 2025-11-06 13:30:00\nCourse details\n: Have a Career Break
 DTEND:20251106T133000Z
 LOCATION:G62\, London
@@ -13,7 +13,7 @@ SUMMARY:Have a Career Break - G62 -
 UID:dd9c98db-030c-474e-9294-4efb817bca66@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: French Beginner Classes\nCourse code\n: FRL01-01\nProfessor\n: Virginie RODRIGUEZ\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-10 17:00:00\nEnd time\n: 2025-10-10 19:00:00\nTeaching language\n: ENG
 DTEND:20251010T180000Z
 LOCATION:G74\, London
@@ -22,7 +22,7 @@ SUMMARY:French Beginner Classes - G74 - Virginie RODRIGUEZ
 UID:62dcdcb8-0489-4042-9969-4a362e28c1b4@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Markets and other Commodities\nCourse code\n: EMCT2-01\nProfessor\n:Panos POULIASIS\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-02-12 11:45:00\nEnd time\n: 2026-02-12 14:45:00\nTeaching language\n: ENG
 DTEND:20260212T144500Z
 LOCATION:G74\, London
@@ -31,7 +31,7 @@ SUMMARY:Energy Markets and other Commodities - G74 - Panos POULIASIS
 UID:8777c3c8-b07c-4042-bd04-625af7fea6f4@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Markets and other Commodities\nCourse code\n: EMCT2-01\nProfessor\n:Panos POULIASIS\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-03-04 11:45:00\nEnd time\n: 2026-03-04 14:45:00\nTeaching language\n: ENG
 DTEND:20260304T144500Z
 LOCATION:G74\, London
@@ -40,7 +40,7 @@ SUMMARY:Energy Markets and other Commodities - G74 - Panos POULIASIS
 UID:83f4f38a-b115-4e69-b023-d093ccb124f5@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: French Beginner Classes\nCourse code\n: FRL01-01\nProfessor\n: Virginie RODRIGUEZ\nCampus\n: London\nRoom\n: London Online Room 1\nStart time\n: 2026-01-09 11:30:00\nEnd time\n: 2026-01-09 13:30:00\nTeaching language\n: ENG
 DTEND:20260109T133000Z
 LOCATION:London Online Room 1\, London
@@ -49,7 +49,7 @@ SUMMARY:French Beginner Classes - London Online Room 1 - Virginie RODRIGUEZ
 UID:ed87efc1-49fd-447f-9181-9189a6fd7aca@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Corporate and Business Strategy\nCourse code\n: CBST1-01\nProfessor\n: Davide SOLA\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-02-02 08:15:00\nEnd time\n: 2026-02-0211:15:00\nTeachinglanguage\n: ENG
 DTEND:20260202T111500Z
 LOCATION:G74\, London
@@ -58,7 +58,7 @@ SUMMARY:Corporate and Business Strategy - G74 - Davide SOLA
 UID:f26a8cd5-dde8-442f-b278-2469cbdb3dc9@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Risk Mgmt: Objectives  Methods and Instruments\nCourse code\n:ERT2-01\nProfessor\n: Soon Heng LEONG\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-11-03 11:45:00\nEnd time\n: 2025-11-03 14:45:00\nTeaching language\n: ENG
 DTEND:20251103T144500Z
 LOCATION:G74\, London
@@ -67,7 +67,7 @@ SUMMARY:Energy Risk Mgmt: Objectives  Methods and Instruments - G74 - SoonHeng L
 UID:e30d9c84-ceb4-47b8-8a9e-7ac29909ede8@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Principles of Finance\nCourse code\n: PFT1-01\nProfessor\n: Michael AXENROD\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-10 11:45:00\nEnd time\n: 2025-10-10 14:45:00\nTeaching language\n: ENG
 DTEND:20251010T134500Z
 LOCATION:G74\, London
@@ -76,7 +76,7 @@ SUMMARY:Principles of Finance  - G74 - Michael AXENROD
 UID:5853e4e0-9791-4d49-8e1d-ca253a4c2a35@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Gas and LNG Markets\nCourse code\n: GLMT3-01\nProfessor\n: Siamak NEJADHOSSEINI SOUDANI\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-11-10 15:00:00\nEnd time\n: 2025-11-10 18:00:00\nTeaching language\n: ENG
 DTEND:20251110T180000Z
 LOCATION:G74\, Paris
@@ -85,7 +85,7 @@ SUMMARY:Gas and LNG Markets - G74 - Siamak NEJADHOSSEINI SOUDANI
 UID:29190f8e-b7e4-49c2-87ab-b861f698c7f2@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: French Beginner Classes\nCourse code\n: FRL01-01\nProfessor\n: Virginie RODRIGUEZ\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-03-03 18:15:00\nEnd time\n: 2026-03-03 20:15:00\nTeaching language\n: ENG
 DTEND:20260303T201500Z
 LOCATION:G74\, London
@@ -94,7 +94,7 @@ SUMMARY:French Beginner Classes - G74 - Virginie RODRIGUEZ
 UID:439e5b5f-041b-49c8-9c8d-73dd502ab2ee@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: French Beginner Classes\nCourse code\n: FRL01-01\nProfessor\n: Virginie RODRIGUEZ\nCampus\n: London\nRoom\n: London Online Room 1\nStart time\n: 2026-01-06 11:30:00\nEnd time\n: 2026-01-06 13:30:00\nTeaching language\n: ENG
 DTEND:20260106T133000Z
 LOCATION:London Online Room 1\, London
@@ -103,7 +103,7 @@ SUMMARY:French Beginner Classes - London Online Room 1 - Virginie RODRIGUEZ
 UID:ab903b5c-ae96-4c7f-90f1-d9187b5cc110@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Corporate and Business Strategy\nCourse code\n: CBST1-01\nProfessor\n: Davide SOLA\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-01-19 11:45:00\nEnd time\n: 2026-01-1914:45:00\nTeachinglanguage\n: ENG
 DTEND:20260119T144500Z
 LOCATION:G74\, London
@@ -112,7 +112,7 @@ SUMMARY:Corporate and Business Strategy - G74 - Davide SOLA
 UID:63177571-6bdf-4055-8b9d-6f73e1835ba0@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: French Beginner Classes\nCourse code\n: FRL01-01\nProfessor\n: Virginie RODRIGUEZ\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-02-27 09:15:00\nEnd time\n: 2026-02-27 11:15:00\nTeaching language\n: ENG
 DTEND:20260227T111500Z
 LOCATION:G74\, London
@@ -121,7 +121,7 @@ SUMMARY:French Beginner Classes - G74 - Virginie RODRIGUEZ
 UID:561069dc-8699-486d-b0eb-d63558d4f169@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Sustainability and  Energy\nCourse code\n: LOT101-01\nProfessor\n: Pierre PEYRETOU\nCampus\n: London\nRoom\n: G54\nStart time\n: 2025-11-28 08:15:00\nEnd time\n: 2025-11-2811:15:00\nTeachinglanguage\n: ENG
 DTEND:20251128T111500Z
 LOCATION:G54\, London
@@ -130,7 +130,7 @@ SUMMARY:Sustainability and  Energy - G54 - Pierre PEYRETOU
 UID:221c51cb-01d4-4a25-b1fa-74e4daaaefaa@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Renewable Energy\nCourse code\n: LOT102-01\nProfessor\n: Spyridon PAPAEFTHIMIOU\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-11-14 08:15:00\nEnd time\n: 2025-11-14 11:15:00\nTeaching language\n: ENG
 DTEND:20251114T111500Z
 LOCATION:G74\, London
@@ -139,7 +139,7 @@ SUMMARY:Renewable Energy - G74 - Spyridon PAPAEFTHIMIOU
 UID:8d62fa80-55e0-455c-8c20-96f752554a6f@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Policy\nCourse code\n: EPT2-01\nProfessor\n: Adina REVOL\nCampus\n: London\nRoom\n: London Online Room 1\nStart time\n: 2025-11-26 08:15:00\nEnd time\n: 2025-11-26 11:15:00\nTeaching language\n: ENG
 DTEND:20251126T111500Z
 LOCATION:London Online Room 1\, London
@@ -148,7 +148,7 @@ SUMMARY:Energy Policy - London Online Room 1 - Adina REVOL
 UID:78c2fe05-1d16-4c05-960e-5d4cfcebd3a4@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Risk Mgmt: Objectives  Methods and Instruments\nCourse code\n:ERT2-01\nProfessor\n: Soon Heng LEONG\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-06 11:45:00\nEnd time\n: 2025-10-06 14:45:00\nTeaching language\n: ENG
 DTEND:20251006T134500Z
 LOCATION:G74\, London
@@ -157,7 +157,7 @@ SUMMARY:Energy Risk Mgmt: Objectives  Methods and Instruments - G74 - SoonHeng L
 UID:6e9d6cb9-e2dc-4000-a443-dcef9bb16ab9@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Gas and LNG Markets\nCourse code\n: GLMT3-01\nProfessor\n: Siamak NEJADHOSSEINI SOUDANI\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-11-06 15:00:00\nEnd time\n: 2025-11-06 18:00:00\nTeaching language\n: ENG
 DTEND:20251106T180000Z
 LOCATION:G74\, Paris
@@ -166,7 +166,7 @@ SUMMARY:Gas and LNG Markets - G74 - Siamak NEJADHOSSEINI SOUDANI
 UID:6d65cef9-17e2-4fe1-99db-8837137df0d5@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Principles of Finance\nCourse code\n: PFT1-01\nProfessor\n: Michael AXENROD\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-11-05 11:45:00\nEnd time\n: 2025-11-05 14:45:00\nTeaching language\n: ENG
 DTEND:20251105T144500Z
 LOCATION:G74\, London
@@ -175,7 +175,7 @@ SUMMARY:Principles of Finance  - G74 - Michael AXENROD
 UID:11e84889-357c-4b51-b033-4a9b81c36527@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Renewable Energy\nCourse code\n: LOT102-01\nProfessor\n: Spyridon PAPAEFTHIMIOU\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-11-17 08:15:00\nEnd time\n: 2025-11-17 11:15:00\nTeaching language\n: ENG
 DTEND:20251117T111500Z
 LOCATION:G74\, London
@@ -184,7 +184,7 @@ SUMMARY:Renewable Energy - G74 - Spyridon PAPAEFTHIMIOU
 UID:e9ed2a92-3875-474e-939e-3f899b4453d0@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: French Beginner Classes\nCourse code\n: FRL01-01\nProfessor\n: Virginie RODRIGUEZ\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-01-16 15:00:00\nEnd time\n: 2026-01-16 17:00:00\nTeaching language\n: ENG
 DTEND:20260116T170000Z
 LOCATION:G74\, London
@@ -193,7 +193,7 @@ SUMMARY:French Beginner Classes - G74 - Virginie RODRIGUEZ
 UID:98da4ea4-6ef0-4ba5-944e-77b31233e0b1@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Economics\nCourse code\n: PAT301-01\nProfessor\n: Anthony EVANS\nCampus\n:London\nRoom\n: G74\nStart time\n: 2026-01-27 11:45:00\nEnd time\n: 2026-01-27 14:45:00\nTeaching language\n: ENG
 DTEND:20260127T144500Z
 LOCATION:G74\, Paris
@@ -202,7 +202,7 @@ SUMMARY:Energy Economics - G74 - Anthony EVANS
 UID:d462b4cb-7434-4fee-88b3-5c964c7dcbc3@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Principles of Finance\nCourse code\n: PFT1-01\nProfessor\n: Michael AXENROD\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-14 11:45:00\nEnd time\n: 2025-10-14 14:45:00\nTeaching language\n: ENG
 DTEND:20251014T134500Z
 LOCATION:G74\, London
@@ -211,7 +211,7 @@ SUMMARY:Principles of Finance  - G74 - Michael AXENROD
 UID:7fcf1353-8ef2-480d-9f3c-a34a5acb99f3@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Policy\nCourse code\n: EPT2-01\nProfessor\n: Adina REVOL\nCampus\n: London\nRoom\n: London Online Room 1\nStart time\n: 2025-11-26 11:45:00\nEnd time\n: 2025-11-26 14:45:00\nTeaching language\n: ENG
 DTEND:20251126T144500Z
 LOCATION:London Online Room 1\, London
@@ -220,7 +220,7 @@ SUMMARY:Energy Policy - London Online Room 1 - Adina REVOL
 UID:5960b05e-08b4-49a0-b6e8-c5e91fcaa149@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: French Beginner Classes\nCourse code\n: FRL01-01\nProfessor\n: Virginie RODRIGUEZ\nCampus\n: London\nRoom\n: G75\nStart time\n: 2025-11-07 17:00:00\nEnd time\n: 2025-11-07 19:00:00\nTeaching language\n: ENG
 DTEND:20251107T190000Z
 LOCATION:G75\, London
@@ -229,7 +229,7 @@ SUMMARY:French Beginner Classes - G75 - Virginie RODRIGUEZ
 UID:e014363e-7294-49c9-8cd7-0b6f92e2b50f@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Principles of Finance\nCourse code\n: PFT1-01\nProfessor\n: Michael AXENROD\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-11-19 11:45:00\nEnd time\n: 2025-11-19 14:45:00\nTeaching language\n: ENG
 DTEND:20251119T144500Z
 LOCATION:G74\, London
@@ -238,7 +238,7 @@ SUMMARY:Principles of Finance  - G74 - Michael AXENROD
 UID:f5cce393-8d71-40e4-bb3b-04b859aa8b55@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Economics\nCourse code\n: PAT301-01\nProfessor\n: Anthony EVANS\nCampus\n:London\nRoom\n: G74\nStart time\n: 2026-02-04 15:00:00\nEnd time\n: 2026-02-04 18:00:00\nTeaching language\n: ENG
 DTEND:20260204T180000Z
 LOCATION:G74\, Paris
@@ -247,7 +247,7 @@ SUMMARY:Energy Economics - G74 - Anthony EVANS
 UID:f467f8dd-9034-46fa-b7c6-e0d221048590@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Trading\nCourse code\n: TGT2-01\nProfessor\n: Panos POULIASIS\nCampus\n: London\nRoom\n: G74\nStarttime\n: 2026-02-03 18:00:00\nEnd time\n: 2026-02-03 21:00:00\nTeaching language\n: ENG
 DTEND:20260203T210000Z
 LOCATION:G74\, London
@@ -256,7 +256,7 @@ SUMMARY:Energy Trading - G74 - Panos POULIASIS
 UID:c7819b3c-5b10-4b1b-8e2a-b1bc0002ccd0@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Workshops\nCourse code\n: WKSP-01\nProfessor\n: Luke HORSWELL\nCampus\n: London\nRoom\n:\\\; London Online Room 1\nStart time\n: 2026-02-10 13:30:00\nEnd time\n: 2026-02-10 17:30:00\nTeaching language\n: ENG
 DTEND:20260210T173000Z
 LOCATION:London Online Room 1\, London
@@ -265,7 +265,7 @@ SUMMARY:Workshops - London Online Room 1 - Luke HORSWELL
 UID:84016476-693f-4071-8599-1f426a960c08@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Policy\nCourse code\n: EPT2-01\nProfessor\n: Adina REVOL\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-23 11:45:00\nEnd time\n: 2025-10-23 14:45:00\nTeaching language\n: ENG
 DTEND:20251023T134500Z
 LOCATION:G74\, London
@@ -274,7 +274,7 @@ SUMMARY:Energy Policy - G74 - Adina REVOL
 UID:d8324be8-c36d-4d63-8424-b31524147ba2@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Gas and LNG Markets\nCourse code\n: GLMT3-01\nProfessor\n: Siamak NEJADHOSSEINI SOUDANI\nCampus\n: London\nRoom\n: G101\nStart time\n: 2025-11-17 15:00:00\nEnd time\n: 2025-11-17 18:00:00\nTeaching language\n: ENG
 DTEND:20251117T180000Z
 LOCATION:G101\, Paris
@@ -283,7 +283,7 @@ SUMMARY:Gas and LNG Markets - G101 - Siamak NEJADHOSSEINI SOUDANI
 UID:1932920f-cda1-4d91-a7a6-622c97c4141a@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Renewable Energy\nCourse code\n: LOT102-01\nProfessor\n: Spyridon PAPAEFTHIMIOU\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-11-20 08:15:00\nEnd time\n: 2025-11-20 11:15:00\nTeaching language\n: ENG
 DTEND:20251120T111500Z
 LOCATION:G74\, London
@@ -292,7 +292,7 @@ SUMMARY:Renewable Energy - G74 - Spyridon PAPAEFTHIMIOU
 UID:abfa536a-5f33-4cd2-862a-2d291fd1b2fe@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Renewable Energy\nCourse code\n: LOT102-01\nProfessor\n: Spyridon PAPAEFTHIMIOU\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-14 08:15:00\nEnd time\n: 2025-10-14 11:15:00\nTeaching language\n: ENG
 DTEND:20251014T101500Z
 LOCATION:G74\, London
@@ -301,7 +301,7 @@ SUMMARY:Renewable Energy - G74 - Spyridon PAPAEFTHIMIOU
 UID:e867cc25-e19a-4ad6-8cd6-6bb9af7f9469@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: French Beginner Classes\nCourse code\n: FRL01-01\nProfessor\n: Virginie RODRIGUEZ\nCampus\n: London\nRoom\n: G67\nStart time\n: 2025-11-11 15:30:00\nEnd time\n: 2025-11-11 17:30:00\nTeaching language\n: ENG
 DTEND:20251111T173000Z
 LOCATION:G67\, London
@@ -310,7 +310,7 @@ SUMMARY:French Beginner Classes - G67 - Virginie RODRIGUEZ
 UID:169494f7-ea33-4969-a1e6-799191eb6960@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Gas and LNG Markets\nCourse code\n: GLMT3-01\nProfessor\n: Siamak NEJADHOSSEINI SOUDANI\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-11-03 15:00:00\nEnd time\n: 2025-11-03 18:00:00\nTeaching language\n: ENG
 DTEND:20251103T180000Z
 LOCATION:G74\, Paris
@@ -319,7 +319,7 @@ SUMMARY:Gas and LNG Markets - G74 - Siamak NEJADHOSSEINI SOUDANI
 UID:7a9a6430-567b-4d17-81c3-f52b3ddc059a@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: French Beginner Classes\nCourse code\n: FRL01-01\nProfessor\n: Virginie RODRIGUEZ\nCampus\n: London\nRoom\n: G50\nStart time\n: 2025-10-21 15:30:00\nEnd time\n: 2025-10-21 17:30:00\nTeaching language\n: ENG
 DTEND:20251021T163000Z
 LOCATION:G50\, London
@@ -328,7 +328,7 @@ SUMMARY:French Beginner Classes - G50 - Virginie RODRIGUEZ
 UID:79c0e6cf-5bfc-463e-80ce-aaa2ffb076e5@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Risk Mgmt: Objectives  Methods and Instruments\nCourse code\n:ERT2-01\nProfessor\n: Soon Heng LEONG\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-16 11:45:00\nEnd time\n: 2025-10-16 14:45:00\nTeaching language\n: ENG
 DTEND:20251016T134500Z
 LOCATION:G74\, London
@@ -337,7 +337,7 @@ SUMMARY:Energy Risk Mgmt: Objectives  Methods and Instruments - G74 - SoonHeng L
 UID:0a452451-5a52-44d8-bec2-5d4a4ca724e5@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Sustainability and  Energy\nCourse code\n: LOT101-01\nProfessor\n: Pierre PEYRETOU\nCampus\n: London\nRoom\n: G54\nStart time\n: 2025-11-27 15:00:00\nEnd time\n: 2025-11-2718:00:00\nTeachinglanguage\n: ENG
 DTEND:20251127T180000Z
 LOCATION:G54\, London
@@ -346,7 +346,7 @@ SUMMARY:Sustainability and  Energy - G54 - Pierre PEYRETOU
 UID:620d91fd-e888-4b57-a62f-f6ee69086b31@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Corporate and Business Strategy\nCourse code\n: CBST1-01\nProfessor\n: Davide SOLA\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-03-02 08:15:00\nEnd time\n: 2026-03-0211:15:00\nTeachinglanguage\n: ENG
 DTEND:20260302T111500Z
 LOCATION:G74\, London
@@ -355,7 +355,7 @@ SUMMARY:Corporate and Business Strategy - G74 - Davide SOLA
 UID:c925ec2b-06ae-4ec1-b346-ac009297be7e@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Risk Mgmt: Objectives  Methods and Instruments\nCourse code\n:ERT2-01\nProfessor\n: Soon Heng LEONG\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-13 11:45:00\nEnd time\n: 2025-10-13 14:45:00\nTeaching language\n: ENG
 DTEND:20251013T134500Z
 LOCATION:G74\, London
@@ -364,7 +364,7 @@ SUMMARY:Energy Risk Mgmt: Objectives  Methods and Instruments - G74 - SoonHeng L
 UID:31e18071-0bb4-4669-bf7c-92d132754727@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Principles of Finance\nCourse code\n: PFT1-01\nProfessor\n: Michael AXENROD\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-07 11:45:00\nEnd time\n: 2025-10-07 14:45:00\nTeaching language\n: ENG
 DTEND:20251007T134500Z
 LOCATION:G74\, London
@@ -373,7 +373,7 @@ SUMMARY:Principles of Finance  - G74 - Michael AXENROD
 UID:337d1f95-d48e-4bad-8f76-ead32c1533b0@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Project Financing and Evaluation\nCourse code\n: PFET2-01\nProfessor\n: Othman COLE\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-01-13 10:00:00\nEnd time\n: 2026-01-13 13:00:00\nTeaching language\n: ENG
 DTEND:20260113T130000Z
 LOCATION:G74\, London
@@ -382,7 +382,7 @@ SUMMARY:Energy Project Financing and Evaluation - G74 - Othman COLE
 UID:182664ca-b93b-438a-ac62-cb0558dd0327@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: French Beginner Classes\nCourse code\n: FRL01-01\nProfessor\n: Virginie RODRIGUEZ\nCampus\n: London\nRoom\n: G67\nStart time\n: 2025-11-21 17:00:00\nEnd time\n: 2025-11-21 19:00:00\nTeaching language\n: ENG
 DTEND:20251121T190000Z
 LOCATION:G67\, London
@@ -391,7 +391,7 @@ SUMMARY:French Beginner Classes - G67 - Virginie RODRIGUEZ
 UID:c07aeee5-3143-49f3-aeaa-48711e692d26@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Sustainability and  Energy\nCourse code\n: LOT101-01\nProfessor\n: Pierre PEYRETOU\nCampus\n: London\nRoom\n: G62\nStart time\n: 2025-10-30 11:45:00\nEnd time\n: 2025-10-3014:45:00\nTeachinglanguage\n: ENG
 DTEND:20251030T144500Z
 LOCATION:G62\, London
@@ -400,7 +400,7 @@ SUMMARY:Sustainability and  Energy - G62 - Pierre PEYRETOU
 UID:5e4a88a9-bfeb-4ff9-96f5-7f384e63973e@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Markets and other Commodities\nCourse code\n: EMCT2-01\nProfessor\n:Panos POULIASIS\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-02-11 08:15:00\nEnd time\n: 2026-02-11 11:15:00\nTeaching language\n: ENG
 DTEND:20260211T111500Z
 LOCATION:G74\, London
@@ -409,7 +409,7 @@ SUMMARY:Energy Markets and other Commodities - G74 - Panos POULIASIS
 UID:59cb10bf-00b2-438f-bf9b-0cd3d07b1645@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Gas and LNG Markets\nCourse code\n: GLMT3-01\nProfessor\n: Siamak NEJADHOSSEINI SOUDANI\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-11-14 15:00:00\nEnd time\n: 2025-11-14 18:00:00\nTeaching language\n: ENG
 DTEND:20251114T180000Z
 LOCATION:G74\, Paris
@@ -418,7 +418,7 @@ SUMMARY:Gas and LNG Markets - G74 - Siamak NEJADHOSSEINI SOUDANI
 UID:56f5693f-a1fc-4e98-a423-2b6343ae11fd@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: French Beginner Classes\nCourse code\n: FRL01-01\nProfessor\n: Virginie RODRIGUEZ\nCampus\n: London\nRoom\n: G50\nStart time\n: 2025-10-24 17:00:00\nEnd time\n: 2025-10-24 19:00:00\nTeaching language\n: ENG
 DTEND:20251024T180000Z
 LOCATION:G50\, London
@@ -427,7 +427,7 @@ SUMMARY:French Beginner Classes - G50 - Virginie RODRIGUEZ
 UID:7311ea6c-4d29-4890-94e8-d389a0683576@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Corporate and Business Strategy\nCourse code\n: CBST1-01\nProfessor\n: Davide SOLA\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-02-16 08:15:00\nEnd time\n: 2026-02-1611:15:00\nTeachinglanguage\n: ENG
 DTEND:20260216T111500Z
 LOCATION:G74\, London
@@ -436,7 +436,7 @@ SUMMARY:Corporate and Business Strategy - G74 - Davide SOLA
 UID:94ba632b-f30d-4e5a-b4a5-c6331c8574b8@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Workshops\nCourse code\n: WKSP-01\nProfessor\n: Matthieu DUCHESNE\nCampus\n: London\nRoom\n: G54\nStart time\n: 2025-11-25 13:00:00\nEnd time\n: 2025-11-25 16:00:00\nTeaching language\n: ENG
 DTEND:20251125T160000Z
 LOCATION:G54\, London
@@ -445,7 +445,7 @@ SUMMARY:Workshops - G54 - Matthieu DUCHESNE
 UID:8aacb244-380a-4b93-8ad0-4eb226a054d0@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Career Workshop -  Spotlight on My Career Goals\nProfessor\n:\nCampus\n:London\nRoom\n: G74\nStart time\n: 2025-10-24 09:00:00\nEnd time\n: 2025-10-24 11:00:00\nCourse details\n: Career Workshop -  Spotlight on My Career Goals
 DTEND:20251024T100000Z
 LOCATION:G74\, London
@@ -454,7 +454,7 @@ SUMMARY:Career Workshop -  Spotlight on My Career Goals - G74 -
 UID:f3c80705-4a2d-485f-a555-00ad3c1e7d72@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Corporate and Business Strategy\nCourse code\n: CBST1-01\nProfessor\n: Davide SOLA\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-01-26 08:15:00\nEnd time\n: 2026-01-2611:15:00\nTeachinglanguage\n: ENG
 DTEND:20260126T111500Z
 LOCATION:G74\, London
@@ -463,7 +463,7 @@ SUMMARY:Corporate and Business Strategy - G74 - Davide SOLA
 UID:aa2f848a-133e-4dc3-b3cc-6d8651bf878f@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Economics\nCourse code\n: PAT301-01\nProfessor\n: Anthony EVANS\nCampus\n:London\nRoom\n: G74\nStart time\n: 2026-01-29 11:45:00\nEnd time\n: 2026-01-29 14:45:00\nTeaching language\n: ENG
 DTEND:20260129T144500Z
 LOCATION:G74\, Paris
@@ -472,7 +472,7 @@ SUMMARY:Energy Economics - G74 - Anthony EVANS
 UID:bdce0b9f-8cca-4206-90cf-6c57c6512316@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Principles of Finance\nCourse code\n: PFT1-01\nProfessor\n: Michael AXENROD\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-17 11:45:00\nEnd time\n: 2025-10-17 14:45:00\nTeaching language\n: ENG
 DTEND:20251017T134500Z
 LOCATION:G74\, London
@@ -481,7 +481,7 @@ SUMMARY:Principles of Finance  - G74 - Michael AXENROD
 UID:e3c7316f-f1bc-4bab-82d1-3380fd2571ac@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Renewable Energy\nCourse code\n: LOT102-01\nProfessor\n: Spyridon PAPAEFTHIMIOU\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-17 08:15:00\nEnd time\n: 2025-10-17 11:15:00\nTeaching language\n: ENG
 DTEND:20251017T101500Z
 LOCATION:G74\, London
@@ -490,7 +490,7 @@ SUMMARY:Renewable Energy - G74 - Spyridon PAPAEFTHIMIOU
 UID:002b309a-faf1-4fa4-9162-f5b50b535eff@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Risk Mgmt: Objectives  Methods and Instruments\nCourse code\n:ERT2-01\nProfessor\n: Soon Heng LEONG\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-27 11:45:00\nEnd time\n: 2025-10-27 14:45:00\nTeaching language\n: ENG
 DTEND:20251027T144500Z
 LOCATION:G74\, London
@@ -499,7 +499,7 @@ SUMMARY:Energy Risk Mgmt: Objectives  Methods and Instruments - G74 - SoonHeng L
 UID:c4a70975-a42b-4989-9019-c20939e4ff55@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Economics\nCourse code\n: PAT301-01\nProfessor\n: Anthony EVANS\nCampus\n:London\nRoom\n: G74\nStart time\n: 2026-01-20 11:45:00\nEnd time\n: 2026-01-20 14:45:00\nTeaching language\n: ENG
 DTEND:20260120T144500Z
 LOCATION:G74\, Paris
@@ -508,7 +508,7 @@ SUMMARY:Energy Economics - G74 - Anthony EVANS
 UID:34c81f80-e058-4947-b375-e1acb9a206b2@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Policy\nCourse code\n: EPT2-01\nProfessor\n: Adina REVOL\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-09 08:15:00\nEnd time\n: 2025-10-09 11:15:00\nTeaching language\n: ENG
 DTEND:20251009T101500Z
 LOCATION:G74\, London
@@ -517,7 +517,7 @@ SUMMARY:Energy Policy - G74 - Adina REVOL
 UID:b4236db4-fd97-47fc-b43f-b5c0ca82b20d@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Markets and other Commodities\nCourse code\n: EMCT2-01\nProfessor\n:Panos POULIASIS\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-03-05 11:45:00\nEnd time\n: 2026-03-05 14:45:00\nTeaching language\n: ENG
 DTEND:20260305T144500Z
 LOCATION:G74\, London
@@ -526,7 +526,7 @@ SUMMARY:Energy Markets and other Commodities - G74 - Panos POULIASIS
 UID:ad73bec1-aacb-4063-8671-93052fa36ae4@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Risk Mgmt: Objectives  Methods and Instruments\nCourse code\n:ERT2-01\nProfessor\n: Soon Heng LEONG\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-11-10 11:45:00\nEnd time\n: 2025-11-10 14:45:00\nTeaching language\n: ENG
 DTEND:20251110T144500Z
 LOCATION:G74\, London
@@ -535,7 +535,7 @@ SUMMARY:Energy Risk Mgmt: Objectives  Methods and Instruments - G74 - SoonHeng L
 UID:8526b070-85ba-4038-be03-d42f2700de21@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Renewable Energy\nCourse code\n: LOT102-01\nProfessor\n: Spyridon PAPAEFTHIMIOU\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-11-18 08:15:00\nEnd time\n: 2025-11-18 11:15:00\nTeaching language\n: ENG
 DTEND:20251118T111500Z
 LOCATION:G74\, London
@@ -544,7 +544,7 @@ SUMMARY:Renewable Energy - G74 - Spyridon PAPAEFTHIMIOU
 UID:d5c3714b-f4cb-420c-a6e9-b09b089d57f0@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Project Financing and Evaluation\nCourse code\n: PFET2-01\nProfessor\n: Yassar NASSER\nStart time\n: 2026-01-20 18:10:00\nEnd time\n: 2026-01-20 19:40:00\nTeaching language\n: ENG
 DTEND:20260120T194000Z
 LOCATION:LONDON
@@ -553,7 +553,7 @@ SUMMARY:Energy Project Financing and Evaluation - Yassar NASSER
 UID:ce7d000c-7748-4724-afe2-e3384cc69d02@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Principles of Finance\nCourse code\n: PFT1-01\nProfessor\n: Michael AXENROD\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-21 11:45:00\nEnd time\n: 2025-10-21 14:45:00\nTeaching language\n: ENG
 DTEND:20251021T134500Z
 LOCATION:G74\, London
@@ -562,7 +562,7 @@ SUMMARY:Principles of Finance  - G74 - Michael AXENROD
 UID:afe9e301-c03f-40c0-b742-259c5433315c@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Markets and other Commodities\nCourse code\n: EMCT2-01\nProfessor\n:Panos POULIASIS\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-03-04 08:15:00\nEnd time\n: 2026-03-04 11:15:00\nTeaching language\n: ENG
 DTEND:20260304T111500Z
 LOCATION:G74\, London
@@ -571,7 +571,7 @@ SUMMARY:Energy Markets and other Commodities - G74 - Panos POULIASIS
 UID:6883deab-e57a-415e-a374-2ab6e6856d9d@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: French Beginner Classes\nCourse code\n: FRL01-01\nProfessor\n: Virginie RODRIGUEZ\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-02-06 17:00:00\nEnd time\n: 2026-02-06 19:00:00\nTeaching language\n: ENG
 DTEND:20260206T190000Z
 LOCATION:G74\, London
@@ -580,7 +580,7 @@ SUMMARY:French Beginner Classes - G74 - Virginie RODRIGUEZ
 UID:6b2f7fb8-7227-4856-ae16-357f4bb9ad75@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Workshops\nCourse code\n: WKSP-01\nProfessor\n: Matthieu DUCHESNE\nCampus\n: London\nRoom\n: G54\nStart time\n: 2025-11-24 09:00:00\nEnd time\n: 2025-11-24 12:00:00\nTeaching language\n: ENG
 DTEND:20251124T120000Z
 LOCATION:G54\, London
@@ -589,7 +589,7 @@ SUMMARY:Workshops - G54 - Matthieu DUCHESNE
 UID:cf0f60a7-6f0a-4c94-96cf-b4fb16aafef9@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Project Financing and Evaluation\nCourse code\n: PFET2-01\nProfessor\n: Yassar NASSER\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-02-25 11:45:00\nEnd time\n: 2026-02-25 14:45:00\nTeaching language\n: ENG
 DTEND:20260225T144500Z
 LOCATION:G74\, London
@@ -598,7 +598,7 @@ SUMMARY:Energy Project Financing and Evaluation - G74 - Yassar NASSER
 UID:e9e1c1bc-c170-4a06-bbef-b8b26ee842b1@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Policy\nCourse code\n: EPT2-01\nProfessor\n: Adina REVOL\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-22 08:15:00\nEnd time\n: 2025-10-22 11:15:00\nTeaching language\n: ENG
 DTEND:20251022T101500Z
 LOCATION:G74\, London
@@ -607,7 +607,7 @@ SUMMARY:Energy Policy - G74 - Adina REVOL
 UID:b5ab557a-8dea-4d3f-b5b4-051375b770f1@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Markets and other Commodities\nCourse code\n: EMCT2-01\nProfessor\n:Panos POULIASIS\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-02-03 15:00:00\nEnd time\n: 2026-02-03 18:00:00\nTeaching language\n: ENG
 DTEND:20260203T180000Z
 LOCATION:G74\, London
@@ -616,7 +616,7 @@ SUMMARY:Energy Markets and other Commodities - G74 - Panos POULIASIS
 UID:b1a805da-bbdd-4e82-a783-e4afad334e5e@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Renewable Energy\nCourse code\n: LOT102-01\nProfessor\n: Spyridon PAPAEFTHIMIOU\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-15 08:15:00\nEnd time\n: 2025-10-15 11:15:00\nTeaching language\n: ENG
 DTEND:20251015T101500Z
 LOCATION:G74\, London
@@ -625,7 +625,7 @@ SUMMARY:Renewable Energy - G74 - Spyridon PAPAEFTHIMIOU
 UID:781cbfe4-fa00-46b2-a998-17c147b24ba3@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Student Ambassador Presentation\nProfessor\n:\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-07 11:00:00\nEnd time\n: 2025-10-07 11:30:00\nCourse details\n: StudentAmbassador Presentation
 DTEND:20251007T103000Z
 LOCATION:G74\, London
@@ -634,7 +634,7 @@ SUMMARY:Student Ambassador Presentation - G74 -
 UID:b9376393-6e95-47e3-aa97-d26ff679d7ca@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Sustainability and  Energy\nCourse code\n: LOT101-01\nProfessor\n: Pierre PEYRETOU\nCampus\n: London\nRoom\n: G101\nStart time\n: 2025-10-29 11:45:00\nEnd time\n: 2025-10-2914:45:00\nTeachinglanguage\n: ENG
 DTEND:20251029T144500Z
 LOCATION:G101\, London
@@ -643,7 +643,7 @@ SUMMARY:Sustainability and  Energy - G101 - Pierre PEYRETOU
 UID:68bb2c39-aa2f-40fe-b4ae-8ab48634a9af@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Sustainability and  Energy\nCourse code\n: LOT101-01\nProfessor\n: Pierre PEYRETOU\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-11-27 11:45:00\nEnd time\n: 2025-11-2714:45:00\nTeachinglanguage\n: ENG
 DTEND:20251127T144500Z
 LOCATION:G74\, London
@@ -652,7 +652,7 @@ SUMMARY:Sustainability and  Energy - G74 - Pierre PEYRETOU
 UID:55bad1e1-ef29-4d26-9f3f-04ee9e8f514d@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Sustainability and  Energy\nCourse code\n: LOT101-01\nProfessor\n: Pierre PEYRETOU\nCampus\n: London\nRoom\n: F52a\nStart time\n: 2025-10-31 08:15:00\nEnd time\n: 2025-10-3111:15:00\nTeachinglanguage\n: ENG
 DTEND:20251031T111500Z
 LOCATION:F52a\, London
@@ -661,7 +661,7 @@ SUMMARY:Sustainability and  Energy - F52a - Pierre PEYRETOU
 UID:e280762b-6f58-4459-8412-e560659fc353@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Markets and other Commodities\nCourse code\n: EMCT2-01\nProfessor\n:Panos POULIASIS\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-02-17 15:00:00\nEnd time\n: 2026-02-17 18:00:00\nTeaching language\n: ENG
 DTEND:20260217T180000Z
 LOCATION:G74\, London
@@ -670,7 +670,7 @@ SUMMARY:Energy Markets and other Commodities - G74 - Panos POULIASIS
 UID:ecaa78ca-8bc2-4aa4-9075-5c29864d80ea@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Project Financing and Evaluation\nCourse code\n: PFET2-01\nProfessor\n: Yassar NASSER\nCampus\n: London\nRoom\n: London Online Room 1\nStart time\n: 2026-01-2811:45:00\nEnd time\n: 2026-01-28 13:15:00\nTeaching language\n: ENG
 DTEND:20260128T131500Z
 LOCATION:London Online Room 1\, London
@@ -679,7 +679,7 @@ SUMMARY:Energy Project Financing and Evaluation - London Online Room 1 - Yassar 
 UID:70f8655f-56eb-45bc-b0b8-8b551a89f508@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Economics\nCourse code\n: PAT301-01\nProfessor\n: Anthony EVANS\nCampus\n:London\nRoom\n: G74\nStart time\n: 2026-01-21 15:00:00\nEnd time\n: 2026-01-21 18:00:00\nTeaching language\n: ENG
 DTEND:20260121T180000Z
 LOCATION:G74\, Paris
@@ -688,7 +688,7 @@ SUMMARY:Energy Economics - G74 - Anthony EVANS
 UID:2c21fc78-795d-4667-9b01-f5ec4c72e7f0@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Corporate and Business Strategy\nCourse code\n: CBST1-01\nProfessor\n: Davide SOLA\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-02-09 08:15:00\nEnd time\n: 2026-02-0911:15:00\nTeachinglanguage\n: ENG
 DTEND:20260209T111500Z
 LOCATION:G74\, London
@@ -697,7 +697,7 @@ SUMMARY:Corporate and Business Strategy - G74 - Davide SOLA
 UID:18c65459-5514-433c-8e65-3cb1aafd293a@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Corporate and Business Strategy\nCourse code\n: CBST1-01\nProfessor\n: Davide SOLA\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-01-12 08:15:00\nEnd time\n: 2026-01-1211:15:00\nTeachinglanguage\n: ENG
 DTEND:20260112T111500Z
 LOCATION:G74\, London
@@ -706,7 +706,7 @@ SUMMARY:Corporate and Business Strategy - G74 - Davide SOLA
 UID:0903d6d5-a9e3-4aec-92af-dc63e307cd69@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Trading\nCourse code\n: TGT2-01\nProfessor\n: Panos POULIASIS\nCampus\n: London\nRoom\n: G74\nStarttime\n: 2026-02-17 18:00:00\nEnd time\n: 2026-02-17 21:00:00\nTeaching language\n: ENG
 DTEND:20260217T210000Z
 LOCATION:G74\, London
@@ -715,7 +715,7 @@ SUMMARY:Energy Trading - G74 - Panos POULIASIS
 UID:3d3d150e-2947-4048-af1a-aefb89644f52@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Project Financing and Evaluation\nCourse code\n: PFET2-01\nProfessor\n: Othman COLE\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-03-03 11:45:00\nEnd time\n: 2026-03-03 14:45:00\nTeaching language\n: ENG
 DTEND:20260303T144500Z
 LOCATION:G74\, London
@@ -724,7 +724,7 @@ SUMMARY:Energy Project Financing and Evaluation - G74 - Othman COLE
 UID:d42b29a2-60cc-4301-a8d6-fde40494e901@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Corporate and Business Strategy\nCourse code\n: CBST1-01\nProfessor\n: Davide SOLA\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-01-12 11:45:00\nEnd time\n: 2026-01-1214:45:00\nTeachinglanguage\n: ENG
 DTEND:20260112T144500Z
 LOCATION:G74\, London
@@ -733,7 +733,7 @@ SUMMARY:Corporate and Business Strategy - G74 - Davide SOLA
 UID:febb8729-90de-4bca-86e3-78819d2d74fc@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Principles of Finance\nCourse code\n: PFT1-01\nProfessor\n: Michael AXENROD\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-11-21 11:45:00\nEnd time\n: 2025-11-21 14:45:00\nTeaching language\n: ENG
 DTEND:20251121T144500Z
 LOCATION:G74\, London
@@ -742,7 +742,7 @@ SUMMARY:Principles of Finance  - G74 - Michael AXENROD
 UID:36b64b59-8b2a-47fa-a1ee-150d12ab9e96@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Renewable Energy\nCourse code\n: LOT102-01\nProfessor\n: Spyridon PAPAEFTHIMIOU\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-16 08:15:00\nEnd time\n: 2025-10-16 11:15:00\nTeaching language\n: ENG
 DTEND:20251016T101500Z
 LOCATION:G74\, London
@@ -751,7 +751,7 @@ SUMMARY:Renewable Energy - G74 - Spyridon PAPAEFTHIMIOU
 UID:763d2472-caf1-4eaa-9762-e53d01c70973@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Policy\nCourse code\n: EPT2-01\nProfessor\n: Adina REVOL\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-08 11:45:00\nEnd time\n: 2025-10-08 14:45:00\nTeaching language\n: ENG
 DTEND:20251008T134500Z
 LOCATION:G74\, London
@@ -760,7 +760,7 @@ SUMMARY:Energy Policy - G74 - Adina REVOL
 UID:fe23929f-c041-400c-a029-2fa4bb12ad45@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Sustainability and  Energy\nCourse code\n: LOT101-01\nProfessor\n: Pierre PEYRETOU\nCampus\n: London\nRoom\n: G101\nStart time\n: 2025-10-29 15:00:00\nEnd time\n: 2025-10-2918:00:00\nTeachinglanguage\n: ENG
 DTEND:20251029T180000Z
 LOCATION:G101\, London
@@ -769,7 +769,7 @@ SUMMARY:Sustainability and  Energy - G101 - Pierre PEYRETOU
 UID:20e94759-43d8-4370-9c59-c4725bdde423@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Corporate and Business Strategy\nCourse code\n: CBST1-01\nProfessor\n: Davide SOLA\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-02-23 08:15:00\nEnd time\n: 2026-02-2311:15:00\nTeachinglanguage\n: ENG
 DTEND:20260223T111500Z
 LOCATION:G74\, London
@@ -778,7 +778,7 @@ SUMMARY:Corporate and Business Strategy - G74 - Davide SOLA
 UID:c1ca9170-1ee2-49df-9830-06e4d744c9ff@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Risk Mgmt: Objectives  Methods and Instruments\nCourse code\n:ERT2-01\nProfessor\n: Soon Heng LEONG\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-11-13 15:00:00\nEnd time\n: 2025-11-13 18:00:00\nTeaching language\n: ENG
 DTEND:20251113T180000Z
 LOCATION:G74\, London
@@ -787,7 +787,7 @@ SUMMARY:Energy Risk Mgmt: Objectives  Methods and Instruments - G74 - SoonHeng L
 UID:2dbf185b-9217-4123-b74a-e3cf992163ae@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: French Beginner Classes\nCourse code\n: FRL01-01\nProfessor\n: Virginie RODRIGUEZ\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-01-20 15:30:00\nEnd time\n: 2026-01-20 17:30:00\nTeaching language\n: ENG
 DTEND:20260120T173000Z
 LOCATION:G74\, London
@@ -796,7 +796,7 @@ SUMMARY:French Beginner Classes - G74 - Virginie RODRIGUEZ
 UID:c8499254-ef23-4175-9810-150382a27380@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Economics\nCourse code\n: PAT301-01\nProfessor\n: Anthony EVANS\nCampus\n:London\nRoom\n: G74\nStart time\n: 2026-02-11 15:00:00\nEnd time\n: 2026-02-11 18:00:00\nTeaching language\n: ENG
 DTEND:20260211T180000Z
 LOCATION:G74\, Paris
@@ -805,7 +805,7 @@ SUMMARY:Energy Economics - G74 - Anthony EVANS
 UID:46cfd1bc-15b5-4d87-995f-8b62bf628225@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Project Financing and Evaluation\nCourse code\n: PFET2-01\nProfessor\n: Othman COLE\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-01-15 15:00:00\nEnd time\n: 2026-01-15 18:00:00\nTeaching language\n: ENG
 DTEND:20260115T180000Z
 LOCATION:G74\, London
@@ -814,7 +814,7 @@ SUMMARY:Energy Project Financing and Evaluation - G74 - Othman COLE
 UID:0d83f120-7b9c-4219-b36a-5751915122d6@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Trading\nCourse code\n: TGT2-01\nProfessor\n: Panos POULIASIS\nCampus\n: London\nRoom\n: G74\nStarttime\n: 2026-03-05 08:15:00\nEnd time\n: 2026-03-05 11:15:00\nTeaching language\n: ENG
 DTEND:20260305T111500Z
 LOCATION:G74\, London
@@ -823,7 +823,7 @@ SUMMARY:Energy Trading - G74 - Panos POULIASIS
 UID:13173036-0c6f-4ea0-b7df-f6c4347b7bb4@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Risk Mgmt: Objectives  Methods and Instruments\nCourse code\n:ERT2-01\nProfessor\n: Soon Heng LEONG\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-11-13 11:45:00\nEnd time\n: 2025-11-13 14:45:00\nTeaching language\n: ENG
 DTEND:20251113T144500Z
 LOCATION:G74\, London
@@ -832,7 +832,7 @@ SUMMARY:Energy Risk Mgmt: Objectives  Methods and Instruments - G74 - SoonHeng L
 UID:22e7ecf2-1e6e-4092-a1f9-b4feecd94c28@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Sustainability and  Energy\nCourse code\n: LOT101-01\nProfessor\n: Pierre PEYRETOU\nCampus\n: London\nRoom\n: G62\nStart time\n: 2025-10-30 15:00:00\nEnd time\n: 2025-10-3018:00:00\nTeachinglanguage\n: ENG
 DTEND:20251030T180000Z
 LOCATION:G62\, London
@@ -841,7 +841,7 @@ SUMMARY:Sustainability and  Energy - G62 - Pierre PEYRETOU
 UID:09242c9b-ebec-44fc-84e4-558c9bc2f2ed@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Renewable Energy\nCourse code\n: LOT102-01\nProfessor\n: Spyridon PAPAEFTHIMIOU\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-13 08:15:00\nEnd time\n: 2025-10-13 11:15:00\nTeaching language\n: ENG
 DTEND:20251013T101500Z
 LOCATION:G74\, London
@@ -850,7 +850,7 @@ SUMMARY:Renewable Energy - G74 - Spyridon PAPAEFTHIMIOU
 UID:0166822b-6e21-42a6-92b9-88495e38a711@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Policy\nCourse code\n: EPT2-01\nProfessor\n: Adina REVOL\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-09 11:45:00\nEnd time\n: 2025-10-09 14:45:00\nTeaching language\n: ENG
 DTEND:20251009T134500Z
 LOCATION:G74\, London
@@ -859,7 +859,7 @@ SUMMARY:Energy Policy - G74 - Adina REVOL
 UID:304fccaf-8b89-41da-b869-840625c66e13@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Workshops\nCourse code\n: WKSP-01\nProfessor\n: Matthieu DUCHESNE\nCampus\n: London\nRoom\n: G54\nStart time\n: 2025-11-24 13:00:00\nEnd time\n: 2025-11-24 16:00:00\nTeaching language\n: ENG
 DTEND:20251124T160000Z
 LOCATION:G54\, London
@@ -868,7 +868,7 @@ SUMMARY:Workshops - G54 - Matthieu DUCHESNE
 UID:0ef36476-df23-42e5-86b2-252a7ffcd757@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Policy\nCourse code\n: EPT2-01\nProfessor\n: Adina REVOL\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-08 08:15:00\nEnd time\n: 2025-10-08 11:15:00\nTeaching language\n: ENG
 DTEND:20251008T101500Z
 LOCATION:G74\, London
@@ -877,7 +877,7 @@ SUMMARY:Energy Policy - G74 - Adina REVOL
 UID:7661c381-9bb3-4fab-a3c4-a520d53b1100@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Principles of Finance\nCourse code\n: PFT1-01\nProfessor\n: Michael AXENROD\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-11-04 15:00:00\nEnd time\n: 2025-11-04 18:00:00\nTeaching language\n: ENG
 DTEND:20251104T180000Z
 LOCATION:G74\, London
@@ -886,7 +886,7 @@ SUMMARY:Principles of Finance  - G74 - Michael AXENROD
 UID:392b4fe2-a61c-4f9d-badc-ec1f002419f7@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Markets and other Commodities\nCourse code\n: EMCT2-01\nProfessor\n:Panos POULIASIS\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-02-04 08:15:00\nEnd time\n: 2026-02-04 11:15:00\nTeaching language\n: ENG
 DTEND:20260204T111500Z
 LOCATION:G74\, London
@@ -895,7 +895,7 @@ SUMMARY:Energy Markets and other Commodities - G74 - Panos POULIASIS
 UID:924d5ae7-e63c-429f-83bd-ca153bb2c137@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: French Beginner Classes\nCourse code\n: FRL01-01\nProfessor\n: Virginie RODRIGUEZ\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-02-23 14:00:00\nEnd time\n: 2026-02-23 16:00:00\nTeaching language\n: ENG
 DTEND:20260223T160000Z
 LOCATION:G74\, London
@@ -904,7 +904,7 @@ SUMMARY:French Beginner Classes - G74 - Virginie RODRIGUEZ
 UID:b4b976b3-1761-4a9c-a0da-6608d28af5b6@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Economics\nCourse code\n: PAT301-01\nProfessor\n: Anthony EVANS\nCampus\n:London\nRoom\n: G74\nStart time\n: 2026-02-26 11:45:00\nEnd time\n: 2026-02-26 14:45:00\nTeaching language\n: ENG
 DTEND:20260226T144500Z
 LOCATION:G74\, Paris
@@ -913,7 +913,7 @@ SUMMARY:Energy Economics - G74 - Anthony EVANS
 UID:adcbe036-a421-45e3-a15f-2b3622e1a549@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: French Beginner Classes\nCourse code\n: FRL01-01\nProfessor\n: Virginie RODRIGUEZ\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-01-27 15:30:00\nEnd time\n: 2026-01-27 17:30:00\nTeaching language\n: ENG
 DTEND:20260127T173000Z
 LOCATION:G74\, London
@@ -922,7 +922,7 @@ SUMMARY:French Beginner Classes - G74 - Virginie RODRIGUEZ
 UID:7dddead8-c47f-4937-a008-cfb88553bf0d@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Economics\nCourse code\n: PAT301-01\nProfessor\n: Anthony EVANS\nCampus\n:London\nRoom\n: G74\nStart time\n: 2026-02-24 15:00:00\nEnd time\n: 2026-02-24 18:00:00\nTeaching language\n: ENG
 DTEND:20260224T180000Z
 LOCATION:G74\, Paris
@@ -931,7 +931,7 @@ SUMMARY:Energy Economics - G74 - Anthony EVANS
 UID:65206e82-ea49-4cbb-8aec-31bb7509b914@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: French Beginner Classes\nCourse code\n: FRL01-01\nProfessor\n: Virginie RODRIGUEZ\nCampus\n: London\nRoom\n: G13\nStart time\n: 2025-10-28 15:30:00\nEnd time\n: 2025-10-28 17:30:00\nTeaching language\n: ENG
 DTEND:20251028T173000Z
 LOCATION:G13\, London
@@ -940,7 +940,7 @@ SUMMARY:French Beginner Classes - G13 - Virginie RODRIGUEZ
 UID:4dfade66-aa8a-4056-b06c-b5b2df10fd26@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Trading\nCourse code\n: TGT2-01\nProfessor\n: Panos POULIASIS\nCampus\n: London\nRoom\n: G74\nStarttime\n: 2026-02-12 08:15:00\nEnd time\n: 2026-02-12 11:15:00\nTeaching language\n: ENG
 DTEND:20260212T111500Z
 LOCATION:G74\, London
@@ -949,7 +949,7 @@ SUMMARY:Energy Trading - G74 - Panos POULIASIS
 UID:e1d9fb9b-8c15-48e1-a28a-c2db224b1b68@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Project Financing and Evaluation\nCourse code\n: PFET2-01\nProfessor\n: Yassar NASSER\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-02-18 15:00:00\nEnd time\n: 2026-02-18 17:15:00\nTeaching language\n: ENG
 DTEND:20260218T171500Z
 LOCATION:G74\, London
@@ -958,7 +958,7 @@ SUMMARY:Energy Project Financing and Evaluation - G74 - Yassar NASSER
 UID:1d056f60-e1f0-4288-a83d-a79019ed7550@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: French Beginner Classes\nCourse code\n: FRL01-01\nProfessor\n: Virginie RODRIGUEZ\nCampus\n: London\nRoom\n: G67\nStart time\n: 2025-11-18 15:30:00\nEnd time\n: 2025-11-18 17:30:00\nTeaching language\n: ENG
 DTEND:20251118T173000Z
 LOCATION:G67\, London
@@ -967,7 +967,7 @@ SUMMARY:French Beginner Classes - G67 - Virginie RODRIGUEZ
 UID:3a6b95cc-fc84-4607-a633-dff8179ebe5b@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: French Beginner Classes\nCourse code\n: FRL01-01\nProfessor\n: Virginie RODRIGUEZ\nCampus\n: London\nRoom\n: G13\nStart time\n: 2025-10-07 16:00:00\nEnd time\n: 2025-10-07 18:00:00\nTeaching language\n: ENG
 DTEND:20251007T170000Z
 LOCATION:G13\, London
@@ -976,7 +976,7 @@ SUMMARY:French Beginner Classes - G13 - Virginie RODRIGUEZ
 UID:89d0cf26-449c-4804-b23f-32b4d4c73fe4@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Trading\nCourse code\n: TGT2-01\nProfessor\n: Panos POULIASIS\nCampus\n: London\nRoom\n: G74\nStarttime\n: 2026-01-27 18:00:00\nEnd time\n: 2026-01-27 21:00:00\nTeaching language\n: ENG
 DTEND:20260127T210000Z
 LOCATION:G74\, London
@@ -985,7 +985,7 @@ SUMMARY:Energy Trading - G74 - Panos POULIASIS
 UID:b361e265-c30a-4c00-b859-28c6a0c70bb9@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: French Beginner Classes\nCourse code\n: FRL01-01\nProfessor\n: Virginie RODRIGUEZ\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-02-20 17:00:00\nEnd time\n: 2026-02-20 19:00:00\nTeaching language\n: ENG
 DTEND:20260220T190000Z
 LOCATION:G74\, London
@@ -994,7 +994,7 @@ SUMMARY:French Beginner Classes - G74 - Virginie RODRIGUEZ
 UID:822cf9d8-8620-4255-b2af-8d5ef4608505@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Sustainability and  Energy\nCourse code\n: LOT101-01\nProfessor\n: Pierre PEYRETOU\nCampus\n: London\nRoom\n: F52a\nStart time\n: 2025-10-31 11:45:00\nEnd time\n: 2025-10-3114:45:00\nTeachinglanguage\n: ENG
 DTEND:20251031T144500Z
 LOCATION:F52a\, London
@@ -1003,7 +1003,7 @@ SUMMARY:Sustainability and  Energy - F52a - Pierre PEYRETOU
 UID:12481ec2-2e07-4376-be22-053836fb7d4d@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Workshops\nCourse code\n: WKSP-01\nProfessor\n: Philippe NADOUCE\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-20 09:30:00\nEnd time\n: 2025-10-20 12:30:00\nTeaching language\n: ENG
 DTEND:20251020T113000Z
 LOCATION:G74\, London
@@ -1012,7 +1012,7 @@ SUMMARY:Workshops - G74 - Philippe NADOUCE
 UID:4884bedc-d21c-4247-ad72-98297bc8f534@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Principles of Finance\nCourse code\n: PFT1-01\nProfessor\n: Michael AXENROD\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-11-12 11:45:00\nEnd time\n: 2025-11-12 14:45:00\nTeaching language\n: ENG
 DTEND:20251112T144500Z
 LOCATION:G74\, London
@@ -1021,7 +1021,7 @@ SUMMARY:Principles of Finance  - G74 - Michael AXENROD
 UID:5cfea57d-dab0-4391-ba26-e1cd1ff20f33@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: French Beginner Classes\nCourse code\n: FRL01-01\nProfessor\n: Virginie RODRIGUEZ\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-14 15:30:00\nEnd time\n: 2025-10-14 17:30:00\nTeaching language\n: ENG
 DTEND:20251014T163000Z
 LOCATION:G74\, London
@@ -1030,7 +1030,7 @@ SUMMARY:French Beginner Classes - G74 - Virginie RODRIGUEZ
 UID:3aba7c28-7454-45b2-af6b-3032704e46c9@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Sustainability and  Energy\nCourse code\n: LOT101-01\nProfessor\n: Pierre PEYRETOU\nCampus\n: London\nRoom\n: G54\nStart time\n: 2025-11-28 11:45:00\nEnd time\n: 2025-11-2814:45:00\nTeachinglanguage\n: ENG
 DTEND:20251128T144500Z
 LOCATION:G54\, London
@@ -1039,7 +1039,7 @@ SUMMARY:Sustainability and  Energy - G54 - Pierre PEYRETOU
 UID:ba7e7945-dd29-4a10-92fd-ae570b5df45f@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Career Workshop - Spotlight on My Pitch\nProfessor\n:\nCampus\n: London\nRoom\n:\\\; G74\nStart time\n: 2025-11-07 09:00:00\nEnd time\n: 2025-11-07 11:00:00\nCourse details\n:Career Workshop - Spotlight on My Pitch
 DTEND:20251107T110000Z
 LOCATION:G74\, London
@@ -1048,7 +1048,7 @@ SUMMARY:Career Workshop - Spotlight on My Pitch - G74 -
 UID:48dc599a-4cae-4b09-a408-fa4fcdfb8b62@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Risk Mgmt: Objectives  Methods and Instruments\nCourse code\n:ERT2-01\nProfessor\n: Soon Heng LEONG\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-21 08:15:00\nEnd time\n: 2025-10-21 11:15:00\nTeaching language\n: ENG
 DTEND:20251021T101500Z
 LOCATION:G74\, London
@@ -1057,7 +1057,7 @@ SUMMARY:Energy Risk Mgmt: Objectives  Methods and Instruments - G74 - SoonHeng L
 UID:efabba2d-b60b-4c5c-987f-6d60a083ad1b@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Workshops\nCourse code\n: WKSP-01\nProfessor\n: Philippe NADOUCE\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-20 13:30:00\nEnd time\n: 2025-10-20 16:30:00\nTeaching language\n: ENG
 DTEND:20251020T153000Z
 LOCATION:G74\, London
@@ -1066,7 +1066,7 @@ SUMMARY:Workshops - G74 - Philippe NADOUCE
 UID:1f09149b-3b9e-48aa-81cd-efde7eb23491@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Project Financing and Evaluation\nCourse code\n: PFET2-01\nProfessor\n: Othman COLE\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-03-03 15:00:00\nEnd time\n: 2026-03-03 18:00:00\nTeaching language\n: ENG
 DTEND:20260303T180000Z
 LOCATION:G74\, London
@@ -1075,7 +1075,7 @@ SUMMARY:Energy Project Financing and Evaluation - G74 - Othman COLE
 UID:3e66b84c-24c8-4bd6-b3dc-9a7421535a58@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Renewable Energy\nCourse code\n: LOT102-01\nProfessor\n: Spyridon PAPAEFTHIMIOU\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-11-19 08:15:00\nEnd time\n: 2025-11-19 11:15:00\nTeaching language\n: ENG
 DTEND:20251119T111500Z
 LOCATION:G74\, London
@@ -1084,7 +1084,7 @@ SUMMARY:Renewable Energy - G74 - Spyridon PAPAEFTHIMIOU
 UID:0b70664c-a8aa-4416-bd01-c5cf12b21664@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Workshops\nCourse code\n: WKSP-01\nProfessor\n: Matthieu DUCHESNE\nCampus\n: London\nRoom\n: G54\nStart time\n: 2025-11-25 09:00:00\nEnd time\n: 2025-11-25 12:00:00\nTeaching language\n: ENG
 DTEND:20251125T120000Z
 LOCATION:G54\, London
@@ -1093,7 +1093,7 @@ SUMMARY:Workshops - G54 - Matthieu DUCHESNE
 UID:60cae5e8-618c-4b57-bb0c-c40dd513e657@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: EI Student Talks ONLINE\nProfessor\n:\nStart time\n: 2025-10-15 14:15:00\nEnd time\n: 2025-10-15 15:00:00\nCourse details\n: EI Student Talks ONLINE
 DTEND:20251015T130000Z
 LOCATION:No location data available at this time
@@ -1102,7 +1102,7 @@ SUMMARY:EI Student Talks ONLINE -
 UID:997fc50c-36e8-4e54-974d-89c457b7b0ad@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: MEM MDT Careers Workshop - Onboarding\nProfessor\n:\nCampus\n: London\nRoom\n:G77\nStart time\n: 2025-09-29 14:00:00\nEnd time\n: 2025-09-29 15:30:00\nCourse details\n: MEM MDT Careers Workshop - Onboarding
 DTEND:20250929T143000Z
 LOCATION:G77\, London
@@ -1111,7 +1111,7 @@ SUMMARY:MEM MDT Careers Workshop - Onboarding - G77 -
 UID:fef93005-3eda-4b35-a6b0-c51064b36435@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Project Financing and Evaluation\nCourse code\n: PFET2-01\nProfessor\n: Othman COLE\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-01-13 13:30:00\nEnd time\n: 2026-01-13 16:30:00\nTeaching language\n: ENG
 DTEND:20260113T163000Z
 LOCATION:G74\, London
@@ -1120,7 +1120,7 @@ SUMMARY:Energy Project Financing and Evaluation - G74 - Othman COLE
 UID:7cb511e7-8050-4530-806b-f7c7c1417321@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Project Financing and Evaluation\nCourse code\n: PFET2-01\nProfessor\n: Othman COLE\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-01-15 11:45:00\nEnd time\n: 2026-01-15 14:45:00\nTeaching language\n: ENG
 DTEND:20260115T144500Z
 LOCATION:G74\, London
@@ -1129,7 +1129,7 @@ SUMMARY:Energy Project Financing and Evaluation - G74 - Othman COLE
 UID:5f37d8b8-8480-425f-9866-0c8849408807@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Economics\nCourse code\n: PAT301-01\nProfessor\n: Anthony EVANS\nCampus\n:London\nRoom\n: G74\nStart time\n: 2026-02-13 09:30:00\nEnd time\n: 2026-02-13 12:30:00\nTeaching language\n: ENG
 DTEND:20260213T123000Z
 LOCATION:G74\, Paris
@@ -1138,7 +1138,7 @@ SUMMARY:Energy Economics - G74 - Anthony EVANS
 UID:7b1ff1f0-e243-446b-85d4-9773eddbd90b@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Corporate and Business Strategy\nCourse code\n: CBST1-01\nProfessor\n: Davide SOLA\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-03-02 11:45:00\nEnd time\n: 2026-03-0214:45:00\nTeachinglanguage\n: ENG
 DTEND:20260302T144500Z
 LOCATION:G74\, London
@@ -1147,7 +1147,7 @@ SUMMARY:Corporate and Business Strategy - G74 - Davide SOLA
 UID:db68a449-d606-46d0-8f2e-4a9878e685ee@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Project Financing and Evaluation\nCourse code\n: PFET2-01\nProfessor\n: Yassar NASSER\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-02-18 11:45:00\nEnd time\n: 2026-02-18 14:45:00\nTeaching language\n: ENG
 DTEND:20260218T144500Z
 LOCATION:G74\, London
@@ -1156,7 +1156,7 @@ SUMMARY:Energy Project Financing and Evaluation - G74 - Yassar NASSER
 UID:b570a692-3eab-494c-8bf4-03ea8091480a@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Markets and other Commodities\nCourse code\n: EMCT2-01\nProfessor\n:Panos POULIASIS\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-01-28 08:15:00\nEnd time\n: 2026-01-28 11:15:00\nTeaching language\n: ENG
 DTEND:20260128T111500Z
 LOCATION:G74\, London
@@ -1165,7 +1165,7 @@ SUMMARY:Energy Markets and other Commodities - G74 - Panos POULIASIS
 UID:2d0f48d9-f3d8-4f08-b025-90d049333d62@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Risk Mgmt: Objectives  Methods and Instruments\nCourse code\n:ERT2-01\nProfessor\n: Soon Heng LEONG\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-09-30 13:00:00\nEnd time\n: 2025-09-30 16:00:00\nTeaching language\n: ENG
 DTEND:20250930T150000Z
 LOCATION:G74\, London
@@ -1174,7 +1174,7 @@ SUMMARY:Energy Risk Mgmt: Objectives  Methods and Instruments - G74 - SoonHeng L
 UID:6f18d426-bcd6-4183-a85f-ab11c01976b3@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Economics\nCourse code\n: PAT301-01\nProfessor\n: Anthony EVANS\nCampus\n:London\nRoom\n: G74\nStart time\n: 2026-02-05 11:45:00\nEnd time\n: 2026-02-05 14:45:00\nTeaching language\n: ENG
 DTEND:20260205T144500Z
 LOCATION:G74\, Paris
@@ -1183,7 +1183,7 @@ SUMMARY:Energy Economics - G74 - Anthony EVANS
 UID:190ec7e9-68be-42cf-9da3-336340d95b24@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Markets and other Commodities\nCourse code\n: EMCT2-01\nProfessor\n:Panos POULIASIS\nCampus\n: London\nRoom\n: London Online Room 1\nStart time\n: 2026-02-24 08:15:00\nEnd time\n: 2026-02-24 11:15:00\nTeaching language\n: ENG\nCourse details\n: online
 DTEND:20260224T111500Z
 LOCATION:London Online Room 1\, London
@@ -1192,7 +1192,7 @@ SUMMARY:Energy Markets and other Commodities - London Online Room 1 - PanosPOULI
 UID:2151ca49-7a04-44f9-9e99-d14e8a3c63ba@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Policy\nCourse code\n: EPT2-01\nProfessor\n: Adina REVOL\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-23 08:15:00\nEnd time\n: 2025-10-23 11:15:00\nTeaching language\n: ENG
 DTEND:20251023T101500Z
 LOCATION:G74\, London
@@ -1201,7 +1201,7 @@ SUMMARY:Energy Policy - G74 - Adina REVOL
 UID:17eb4b66-06e2-4a28-b431-357aae38747b@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Management Centre Presentation\nProfessor\n:\nCampus\n: London\nRoom\n:G74\nStart time\n: 2025-10-22 15:00:00\nEnd time\n: 2025-10-22 15:30:00\nCourse details\n: Energy Management Centre Presentation
 DTEND:20251022T143000Z
 LOCATION:G74\, London
@@ -1210,7 +1210,7 @@ SUMMARY:Energy Management Centre Presentation - G74 -
 UID:64e6f966-1491-4c1a-9bab-37bc731cdcb3@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Workshops\nCourse code\n: WKSP-01\nProfessor\n: Luke HORSWELL\nCampus\n: London\nRoom\n:\\\; London Online Room 1\nStart time\n: 2026-02-10 09:00:00\nEnd time\n: 2026-02-10 13:00:00\nTeaching language\n: ENG
 DTEND:20260210T130000Z
 LOCATION:London Online Room 1\, London
@@ -1219,7 +1219,7 @@ SUMMARY:Workshops - London Online Room 1 - Luke HORSWELL
 UID:f13c5ebc-3eee-4690-ab5b-a173ab9617e8@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Project Financing and Evaluation\nCourse code\n: PFET2-01\nProfessor\n: Yassar NASSER\nCampus\n: London\nRoom\n: G74\nStart time\n: 2026-02-25 15:00:00\nEnd time\n: 2026-02-25 17:15:00\nTeaching language\n: ENG
 DTEND:20260225T171500Z
 LOCATION:G74\, London
@@ -1228,7 +1228,7 @@ SUMMARY:Energy Project Financing and Evaluation - G74 - Yassar NASSER
 UID:b5064554-04af-47cf-a05e-c9b52fa0ea06@escp-calendars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T130224Z
+DTSTAMP:20251023T130550Z
 DESCRIPTION:Course\n: Energy Policy\nCourse code\n: EPT2-01\nProfessor\n: Adina REVOL\nCampus\n: London\nRoom\n: G74\nStart time\n: 2025-10-22 11:45:00\nEnd time\n: 2025-10-22 14:45:00\nTeaching language\n: ENG
 DTEND:20251022T134500Z
 LOCATION:G74\, London
